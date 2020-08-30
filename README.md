@@ -1,16 +1,11 @@
-# hiring_open
+# Work Site App
 
-A new Flutter project.
+## Description
 
-## Getting Started
+A Flutter application for a job site.
 
-This project is a starting point for a Flutter application.
+*Implementation of Bloc Pattern, Google Places, OTP Validation, etc.
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/JorgeMedinaG/work_app/blob/public_master/images/search.jpg" height="400" ><img src="https://github.com/JorgeMedinaG/work_app/blob/public_master/images/listing-job.png" height="400" ><img src="https://github.com/JorgeMedinaG/work_app/blob/public_master/images/job-details.png" height="400" ><img src="https://github.com/JorgeMedinaG/work_app/blob/public_master/images/job-filter.png" height="400" ><img src="https://github.com/JorgeMedinaG/work_app/blob/public_master/images/applied-jobs.png" height="400" ><img src="https://github.com/JorgeMedinaG/work_app/blob/public_master/images/forgot-password.png" height="400" ><img src="https://github.com/JorgeMedinaG/work_app/blob/public_master/images/reset-password.png" height="400" ><img src="https://github.com/JorgeMedinaG/work_app/blob/public_master/images/create-resume-education.png" height="400" >
